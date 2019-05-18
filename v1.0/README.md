@@ -14,11 +14,11 @@
 
 +   [AILearning 第1章_基础知识](https://github.com/apachecn/AiLearning/blob/master/docs/ml/1.机器学习基础.md)
 +   [CS229 中文笔记 一、引言](http://ai-start.com/ml2014/html/week1.html)
++   [CS229 中文笔记 三、线性代数回顾](http://ai-start.com/ml2014/html/week1.html)
 +   [机器学习基石 1 -- The Learning Problem](https://github.com/apachecn/ntu-hsuantienlin-ml/blob/master/2.md)
 +   [机器学习基石 2 -- Learning to Answer Yes/No](https://github.com/apachecn/ntu-hsuantienlin-ml/blob/master/3.md)
 +   [机器学习基石 3 -- Types of Learning](https://github.com/apachecn/ntu-hsuantienlin-ml/blob/master/4.md)
 +   [机器学习基石 4 -- Feasibility of Learning](https://github.com/apachecn/ntu-hsuantienlin-ml/blob/master/5.md)
-+   [机器学习基石 5 -- Training versus Testing](https://github.com/apachecn/ntu-hsuantienlin-ml/blob/master/6.md)
 +   [机器学习基石 6 -- Theory of Generalization](https://github.com/apachecn/ntu-hsuantienlin-ml/blob/master/7.md)
 +   [机器学习基石 7 -- The VC Dimension](https://github.com/apachecn/ntu-hsuantienlin-ml/blob/master/8.md)
 +   [机器学习基石 8 -- Noise and Error](https://github.com/apachecn/ntu-hsuantienlin-ml/blob/master/9.md)
@@ -35,10 +35,9 @@
 
 +   [AILearning 第5章_逻辑回归](https://github.com/apachecn/AiLearning/blob/master/docs/ml/5.Logistic回归.md)
 +   [AILearning 第8章_回归](https://github.com/apachecn/AiLearning/blob/master/docs/ml/8.回归.md)
-+   [CS229 中文笔记 二、单变量线性归](http://ai-start.com/ml2014/html/week1.html)
++   [CS229 中文笔记 二、单变量线性回归](http://ai-start.com/ml2014/html/week1.html)
 +   [CS229 中文笔记 四、多变量线性回归](http://ai-start.com/ml2014/html/week2.html)
 +   [CS229 中文笔记 六、逻辑回归](http://ai-start.com/ml2014/html/week2.html)
-+   [CS229 中文笔记 七、正则化](http://ai-start.com/ml2014/html/week2.html)
 +   [DLAI 深度学习笔记 第一门课 第二周：神经网络的编程基础](http://ai-start.com/dl2017/html/lesson1-week2.html)
 +   [机器学习基石 9 -- Linear Regression](https://github.com/apachecn/ntu-hsuantienlin-ml/blob/master/10.md)
 +   [机器学习基石 10 -- Logistic Regression](https://github.com/apachecn/ntu-hsuantienlin-ml/blob/master/11.md)
@@ -309,12 +308,14 @@
 
 ## 模型评估/模型调优
 
++   [CS229 中文笔记 七、正则化](http://ai-start.com/ml2014/html/week2.html)
 +   [CS229 中文笔记 十、应用机器学习的建议](http://ai-start.com/ml2014/html/week6.html)
 +   [CS229 中文笔记 十一、机器学习系统的设计](http://ai-start.com/ml2014/html/week6.html)
 +   [DLAI 深度学习笔记 第二门课 第一周：深度学习的实用层面](http://ai-start.com/dl2017/html/lesson2-week1.html)
 +   [DLAI 深度学习笔记 第二门课 第三周超参数调试，batch正则化和程序框架](http://ai-start.com/dl2017/html/lesson2-week3.html)
 +   [DLAI 深度学习笔记 第三门课 第一周：机器学习策略（1）](http://ai-start.com/dl2017/html/lesson3-week1.html)
 +   [DLAI 深度学习笔记 第三门课 第二周：机器学习策略（2）](http://ai-start.com/dl2017/html/lesson3-week2.html)
++   [机器学习基石 5 -- Training versus Testing](https://github.com/apachecn/ntu-hsuantienlin-ml/blob/master/6.md)
 +   [机器学习基石 13 -- Hazard of Overfitting](https://github.com/apachecn/ntu-hsuantienlin-ml/blob/master/14.md)
 +   [机器学习基石 14 -- Regularization](https://github.com/apachecn/ntu-hsuantienlin-ml/blob/master/15.md)
 +   [机器学习基石 15 -- Validation](https://github.com/apachecn/ntu-hsuantienlin-ml/blob/master/16.md)
