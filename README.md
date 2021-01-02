@@ -4,7 +4,7 @@
 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 >
-> 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
+> 如果建筑工人像程序员写软件那样盖房子，那第一只飞来的啄木鸟就能毁掉人类文明。——Gerald Weinberg
 
 * [ApacheCN 机器学习交流群 629470233](http://shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef)
 * [ApacheCN 学习资源](http://www.apachecn.org/)
